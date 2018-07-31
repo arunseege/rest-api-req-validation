@@ -1,0 +1,14 @@
+https://sanaulla.info/2013/01/25/using-jaxb-to-generate-java-objects-from-xml-document/
+
+http://blog.bdoughan.com/2010/12/jaxb-and-marshalunmarshal-schema.html
+
+==
+xjc expense.xsd will generate classes against xsd.
+
+
+json validation
+http://wilddiary.com/validate-json-against-schema-in-java/
+
+https://stackoverflow.com/questions/36357713/java-8-jackson-validation/36358018
+
+http://www.baeldung.com/introduction-to-json-schema-in-java
